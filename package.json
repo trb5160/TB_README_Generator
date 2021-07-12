@@ -1,0 +1,24 @@
+{
+  "name": "tb_readme_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trb5160/TB_README_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trb5160/TB_README_Generator/issues"
+  },
+  "homepage": "https://github.com/trb5160/TB_README_Generator#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.1.1"
+  }
+}
